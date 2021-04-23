@@ -1,4 +1,4 @@
-const participantes = ['Caio','Sarah','Fiuk','Thaís','Rodolffo','Pocah','Arthur','Gilberto','Viih','Camilla','Juliette','João'];
+const participantes = ['Téo','Jonathan','Gleiton','Carlos','Miguel','Isabella','Luan','Ivanir','Boninho','Joãozinho','Marcos','Guilherme'];
 
 const sorteioAleatorio = participantes[Math.floor(Math.random() * participantes.length)];
 
